@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "text basedd", "text basedd\text basedd.csproj", "{4F21F3E9-E571-4EF6-A584-855338E16DB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F21F3E9-E571-4EF6-A584-855338E16DB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F21F3E9-E571-4EF6-A584-855338E16DB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F21F3E9-E571-4EF6-A584-855338E16DB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F21F3E9-E571-4EF6-A584-855338E16DB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F66FC83-C023-46B4-8F1F-0FD5679A6F38}
+	EndGlobalSection
+EndGlobal
